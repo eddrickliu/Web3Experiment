@@ -1,0 +1,19 @@
+{
+  "name": "metamaskapp",
+  "version": "1.0.0",
+  "description": "This is a simple app to work with WebM3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddrick Liu",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.0.31",
+    "express": "^4.17.1",
+    "web3": "^1.3.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0"
+  }
+}
